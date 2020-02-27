@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a79aadff-5ef0-43e9-8182-490fb02bf883/deploy-status)](https://app.netlify.com/sites/hsrp-docs/deploys)
+
 # HSRP App Documentation
 
 > Shared documentation for HSRP applications, documented via [VuePress](https://vuepress.vuejs.org/).
